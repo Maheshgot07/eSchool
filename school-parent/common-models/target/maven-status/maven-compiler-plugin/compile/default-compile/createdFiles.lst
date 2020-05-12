@@ -1,0 +1,13 @@
+common\datamodel\StudentDO.class
+common\datamodel\SearchWrapper.class
+common\datamodel\util\StringUtil.class
+common\datamodel\StudentOtherDetails.class
+common\datamodel\FeeItem.class
+common\datamodel\StudentWrapper.class
+common\datamodel\CommonModelsApplication.class
+common\datamodel\FeeStructure.class
+common\datamodel\SearchStudent.class
+common\datamodel\Payment_item.class
+common\datamodel\FeeStructureWrapper.class
+common\datamodel\StudentPayment.class
+common\datamodel\PaymentWrapper.class
