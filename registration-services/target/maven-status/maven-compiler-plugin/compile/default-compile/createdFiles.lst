@@ -1,0 +1,5 @@
+com\registration\services\StudentService.class
+com\registration\controller\RegistrationController.class
+com\registration\dao\StudentDAO.class
+com\registration\dao\CustomRepository.class
+com\registration\RegistrationServicesApplication.class
